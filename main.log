@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  11 JUL 2014 13:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  11 JUL 2014 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -248,20 +248,22 @@ e
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./main.aux) ) 
+[2]
+No file main.bbl.
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2957 strings out of 493633
- 40676 string characters out of 3143378
+ 2959 strings out of 493633
+ 40692 string characters out of 3143378
  110229 words of memory out of 3000000
- 6223 multiletter control sequences out of 15000+200000
+ 6224 multiletter control sequences out of 15000+200000
  6209 words of font info for 23 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,6n,23p,324b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr17.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+17.pfb>
 Output written on main.pdf (2 pages, 47623 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
