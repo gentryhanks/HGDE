@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Balfe and Babinec}{2008}]{balfe_diabetes_2008}
+Balfe, M. and Babinec, P. (2008).
+\newblock Diabetes in people, cats, and dogs: Biomedicine and manifold
+  ontologies.
+\newblock {\em Medical anthropology}, 27(4).
+
 \bibitem[\protect\astroncite{Boehm and Hoffmann}{1878}]{boehm_1878_beitrage}
 Boehm, R. and Hoffmann, F. (1878).
 \newblock Beitr{\"a}ge zur kenntniss des kohlehydratstoffwechsels.
@@ -23,9 +29,56 @@ Daniels, G.~E. (1948).
 \newblock The role of emotion in the onset and course of diabetes.
 \newblock {\em Psychosomatic Medicine}, 10(5).
 
+\bibitem[\protect\astroncite{Ebstein}{1989}]{ebstein_history_1989}
+Ebstein, E. (1989).
+\newblock From the history of diabetes with particular reference to the
+  pancreas.
+\newblock In Engelhardt, P. D.~v., editor, {\em Diabetes Its Medical and
+  Cultural History}, pages 295\--\--305. Springer Berlin Heidelberg.
+
+\bibitem[\protect\astroncite{Engelhardt}{1989}]{engelhardt_diabetes_1989}
+Engelhardt, D. (1989).
+\newblock {\em Diabetes: Its Medical and Cultural History Outlines}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
+
 \bibitem[\protect\astroncite{Menninger}{1935}]{menninger_1935_psychological}
 Menninger, W.~C. (1935).
 \newblock Psychological factors in the etiology of diabetes.
 \newblock {\em The Journal of Nervous and Mental Disease}, 81(1):1--13.
+
+\bibitem[\protect\astroncite{Phillip and Battelino}{2012}]{phillip_attd_2012}
+Phillip, M. and Battelino, T. (2012).
+\newblock {\em {ATTD} 2011 Yearbook: Advanced technologies and treatments for
+  diabetes}.
+\newblock John Wiley and Sons, West Sussex.
+
+\bibitem[\protect\astroncite{Sattley}{1996}]{sattley_history_1996}
+Sattley, M. (1996).
+\newblock The history of diabetes.
+\newblock {\em Diabetes Health}.
+
+\bibitem[\protect\astroncite{Tattersall}{2009}]{tattersall_diabetes_2009}
+Tattersall, R. (2009).
+\newblock {\em Diabetes: The Biography}.
+\newblock Oxford University Press.
+
+\bibitem[\protect\astroncite{Wilkie}{2013}]{wilkie_multispecies_2013}
+Wilkie, R. (2013).
+\newblock Multispecies scholarship and encounters: Changing assumptions at the
+  human\-animal nexus.
+\newblock {\em Sociology}, pages 1--17.
+
+\bibitem[\protect\astroncite{Wilson}{2011}]{wilson_more_2011}
+Wilson, M.~W. (2011).
+\newblock More than human contact, conspicuous mobility and the digital
+  frontier.
+\newblock Seattle, {WA}.
+
+\bibitem[\protect\astroncite{Zimmermann}{1989}]{zimmermann_first_1989}
+Zimmermann, O.~C. (1989).
+\newblock The first description of the symptoms of experimental pancreatic
+  diabetes by the swiss johann conrad brunner.
+\newblock In Engelhardt, P. D.~v., editor, {\em Diabetes Its Medical and
+  Cultural History}, pages 209\--\--228. Springer Berlin Heidelberg.
 
 \end{thebibliography}
