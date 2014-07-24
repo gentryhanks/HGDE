@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  24 JUL 2014 16:33
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  24 JUL 2014 17:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -258,10 +258,10 @@ choanalytically-
 
 [4] [5] [6] [7] [8] [9] [10] [11] (./main.bbl [12]) [13] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3293 strings out of 493633
- 45366 string characters out of 3143378
- 114734 words of memory out of 3000000
- 6545 multiletter control sequences out of 15000+200000
+ 3296 strings out of 493633
+ 45459 string characters out of 3143378
+ 114752 words of memory out of 3000000
+ 6548 multiletter control sequences out of 15000+200000
  10200 words of font info for 37 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,8n,23p,1590b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -273,7 +273,7 @@ exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (13 pages, 117611 bytes).
+Output written on main.pdf (13 pages, 118111 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
