@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 AUG 2014 10:40
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 AUG 2014 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -248,36 +248,36 @@ e
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6]
+[2] [3] [4] [5] [6] [7]
 (/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (14.32635pt too wide) in paragraph at lines 57--61
+Overfull \hbox (14.32635pt too wide) in paragraph at lines 61--65
 \OT1/cmr/m/n/12 er-a-ture and di-rect ob-ser-va-tion of clin-i-cal cases by psy
 choanalytically-
  []
 
-[7] [8] [9] [10] [11] [12] [13] [14] (./main.bbl [15]) [16] (./main.aux) ) 
+[8] [9] [10] [11] [12] [13] [14] [15] (./main.bbl [16]) [17] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3311 strings out of 493633
- 45870 string characters out of 3143378
- 114907 words of memory out of 3000000
- 6563 multiletter control sequences out of 15000+200000
+ 3317 strings out of 493633
+ 46032 string characters out of 3143378
+ 114964 words of memory out of 3000000
+ 6569 multiletter control sequences out of 15000+200000
  10200 words of font info for 37 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,8n,23p,1590b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr
-/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
-live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
-e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 125450 bytes).
+ 38i,8n,23p,1851b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
+</us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (17 pages, 127284 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
