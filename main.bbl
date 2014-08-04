@@ -5,9 +5,9 @@ Aretaeus (1856).
 \newblock {\em The Extant Works of Aretaeus: The Cappadocian}, volume~27.
 \newblock Sydenham Society.
 
-\bibitem[\protect\astroncite{Avicenne and
+\bibitem[\protect\astroncite{Avicenna and
   Gruner}{1930}]{avicenna_1930_treatise}
-Avicenne and Gruner, D. O.~C. (1930).
+Avicenna and Gruner, D. O.~C. (1930).
 \newblock {\em A Treatise on the Canon of Medicine: Of Avicenna, Incorporating
   a Translation of the First Book, by O. Cameron Gruner,...}
 \newblock Luzac.
@@ -78,6 +78,11 @@ Henschen, F. (1969).
 Lloyd, G. E.~R., Chadwick, J., Mann, W.~N., et~al. (1983).
 \newblock {\em Hippocratic writings}, volume 451.
 \newblock Penguin UK.
+
+\bibitem[\protect\astroncite{Maimonides et~al.}{1989}]{maimonides_1989_medical}
+Maimonides, Rosner, F., and Dienstag, J.~I. (1989).
+\newblock {\em The medical aphorisms of Moses Maimonides}.
+\newblock Maimonides Research Institute.
 
 \bibitem[\protect\astroncite{Major}{1933}]{major_1933_classic}
 Major, R.~H. (1933).
