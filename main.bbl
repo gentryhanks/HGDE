@@ -63,6 +63,11 @@ Engelhardt, D. (1989).
 \newblock {\em Diabetes: Its Medical and Cultural History Outlines}.
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
 
+\bibitem[\protect\astroncite{Fishbein}{1959}]{fishbein_1959_modern}
+Fishbein, A.~M. (1959).
+\newblock {\em Modern Woman's Medical Encyclopedia}.
+\newblock Doubleday.
+
 \bibitem[\protect\astroncite{Frank}{1957}]{frank_1957_diabetes}
 Frank, L.~L. (1957).
 \newblock Diabetes mellitus in the texts of old hindu medicine (charaka,
@@ -88,6 +93,12 @@ Maimonides, Rosner, F., and Dienstag, J.~I. (1989).
 Major, R.~H. (1933).
 \newblock Classic descriptions of disease.
 \newblock {\em The American Journal of the Medical Sciences}, 185(6):864.
+
+\bibitem[\protect\astroncite{McKusick}{1959}]{McKusick_1959_Health}
+McKusick, M.~J. (1959).
+\newblock Health during childhood and adolescence.
+\newblock In Fishbein, A.~M., editor, {\em Modern Woman's Medical
+  Encyclopedia}, pages 3--22. Doubleday.
 
 \bibitem[\protect\astroncite{Menninger}{1935}]{menninger_1935_psychological}
 Menninger, W.~C. (1935).
