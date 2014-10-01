@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 OCT 2014 13:11
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 OCT 2014 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,23 +335,30 @@ File: thanksgivinghavens.jpg Graphic file (type jpg)
 <use thanksgivinghavens.jpg>
 Package pdftex.def Info: thanksgivinghavens.jpg used on input line 152.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [16] [17 <./thanksgivinghavens.jpg>] [18]
-<banting_fat.jpg, id=67, 1003.75pt x 1498.59875pt>
+ [16]
+<thankshavep2.jpg, id=61, 1003.75pt x 1505.625pt>
+File: thankshavep2.jpg Graphic file (type jpg)
+ <use thankshavep2.jpg>
+Package pdftex.def Info: thankshavep2.jpg used on input line 159.
+(pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
+
+[17 <./thanksgivinghavens.jpg>] [18 <./thankshavep2.jpg>] [19]
+<banting_fat.jpg, id=72, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
-Package pdftex.def Info: banting_fat.jpg used on input line 186.
+Package pdftex.def Info: banting_fat.jpg used on input line 193.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
-[19] [20 <./banting_fat.jpg>] [21] (./main.bbl [22])
+[20] [21 <./banting_fat.jpg>] [22] (./main.bbl [23])
 
 Package natbib Warning: There were undefined citations.
 
-[23] (./main.aux) ) 
+[24] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3885 strings out of 493633
- 54614 string characters out of 3143378
- 132039 words of memory out of 3000000
- 7119 multiletter control sequences out of 15000+200000
+ 3891 strings out of 493633
+ 54744 string characters out of 3143378
+ 132048 words of memory out of 3000000
+ 7124 multiletter control sequences out of 15000+200000
  10507 words of font info for 38 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,8n,23p,1852b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -363,10 +370,10 @@ m/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (23 pages, 394735 bytes).
+Output written on main.pdf (24 pages, 535540 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
