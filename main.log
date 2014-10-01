@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 OCT 2014 13:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 OCT 2014 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,7 +203,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks27
 )
-(./main.aux)
+(./main.aux
+
+LaTeX Warning: Label `fig: Thanksgiving Letter' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -349,31 +353,40 @@ File: banting_fat.jpg Graphic file (type jpg)
 Package pdftex.def Info: banting_fat.jpg used on input line 193.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
-[20] [21 <./banting_fat.jpg>] [22] (./main.bbl [23])
+[20] [21 <./banting_fat.jpg>]
+<mental_man.jpg, id=79, 1003.75pt x 1293.83376pt>
+File: mental_man.jpg Graphic file (type jpg)
+ <use mental_man.jpg>
+Package pdftex.def Info: mental_man.jpg used on input line 202.
+(pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
+ [22 <./mental_man.jpg>] (./main.bbl [23])
 
 Package natbib Warning: There were undefined citations.
 
-[24] (./main.aux) ) 
+[24] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3891 strings out of 493633
- 54744 string characters out of 3143378
- 132048 words of memory out of 3000000
- 7124 multiletter control sequences out of 15000+200000
+ 3896 strings out of 493633
+ 54833 string characters out of 3143378
+ 132087 words of memory out of 3000000
+ 7128 multiletter control sequences out of 15000+200000
  10507 words of font info for 38 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,8n,23p,1852b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
-.pfb>
-Output written on main.pdf (24 pages, 535540 bytes).
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (24 pages, 753875 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
+ 113 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
