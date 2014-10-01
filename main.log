@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 OCT 2014 13:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 OCT 2014 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,11 +203,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks27
 )
-(./main.aux
-
-LaTeX Warning: Label `fig: Thanksgiving Letter' multiply defined.
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -333,60 +329,64 @@ Overfull \hbox (6.67192pt too wide) in paragraph at lines 129--132
 ared to-wards women
  []
 
-[14] [15] <thanksgivinghavens.jpg, id=57, 1003.75pt x 1505.625pt>
+<thanksgivinghavens.jpg, id=51, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
 Package pdftex.def Info: thanksgivinghavens.jpg used on input line 152.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [16]
-<thankshavep2.jpg, id=61, 1003.75pt x 1505.625pt>
+ [14] [15]
+<thankshavep2.jpg, id=58, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
  <use thankshavep2.jpg>
 Package pdftex.def Info: thankshavep2.jpg used on input line 159.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
 
-[17 <./thanksgivinghavens.jpg>] [18 <./thankshavep2.jpg>] [19]
-<banting_fat.jpg, id=72, 1003.75pt x 1498.59875pt>
+[16 <./thanksgivinghavens.jpg>] [17 <./thankshavep2.jpg>] [18]
+<banting_fat.jpg, id=68, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
 Package pdftex.def Info: banting_fat.jpg used on input line 193.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
-[20] [21 <./banting_fat.jpg>]
-<mental_man.jpg, id=79, 1003.75pt x 1293.83376pt>
+[19] [20 <./banting_fat.jpg>]
+<mental_man.jpg, id=76, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
-Package pdftex.def Info: mental_man.jpg used on input line 202.
+Package pdftex.def Info: mental_man.jpg used on input line 206.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
- [22 <./mental_man.jpg>] (./main.bbl [23])
+ [21]
+<mental_manp2.jpg, id=80, 1003.75pt x 1293.83376pt>
+File: mental_manp2.jpg Graphic file (type jpg)
+ <use mental_manp2.jpg>
+Package pdftex.def Info: mental_manp2.jpg used on input line 213.
+(pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
+
+[22 <./mental_man.jpg>] [23 <./mental_manp2.jpg>] (./main.bbl [24])
 
 Package natbib Warning: There were undefined citations.
 
-[24] (./main.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[25] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3896 strings out of 493633
- 54833 string characters out of 3143378
- 132087 words of memory out of 3000000
- 7128 multiletter control sequences out of 15000+200000
+ 3903 strings out of 493633
+ 55046 string characters out of 3143378
+ 132066 words of memory out of 3000000
+ 7134 multiletter control sequences out of 15000+200000
  10507 words of font info for 38 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,8n,23p,1852b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (24 pages, 753875 bytes).
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on main.pdf (25 pages, 926370 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
