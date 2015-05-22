@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  22 MAY 2015 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  22 MAY 2015 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -309,57 +309,57 @@ e
 Package natbib Warning: Citation `sanders_2001_diabetes' on page 7 undefined on
  input line 63.
 
-[7] [8] [9] [10] [11] [12]
+[7] [8] [9] [10] [11] [12] [13]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [13]
-[14] [15] [16]
-Overfull \hbox (6.67192pt too wide) in paragraph at lines 154--157
+) [14]
+[15] [16]
+Overfull \hbox (6.67192pt too wide) in paragraph at lines 160--163
 []\OT1/cmr/m/n/12 (Fishbein, 1959) In med-i-cal re-sources and lit-er-a-ture ge
 ared to-wards women
  []
 
-<thanksgivinghavens.jpg, id=60, 1003.75pt x 1505.625pt>
+[17] <thanksgivinghavens.jpg, id=63, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
-Package pdftex.def Info: thanksgivinghavens.jpg used on input line 177.
+Package pdftex.def Info: thanksgivinghavens.jpg used on input line 183.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [17]
-<thankshavep2.jpg, id=64, 1003.75pt x 1505.625pt>
+ [18]
+<thankshavep2.jpg, id=67, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
  <use thankshavep2.jpg>
-Package pdftex.def Info: thankshavep2.jpg used on input line 184.
+Package pdftex.def Info: thankshavep2.jpg used on input line 190.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
 
-[18 <./thanksgivinghavens.jpg>] [19 <./thankshavep2.jpg>] [20]
-<banting_fat.jpg, id=75, 1003.75pt x 1498.59875pt>
+[19 <./thanksgivinghavens.jpg>] [20 <./thankshavep2.jpg>] [21]
+<banting_fat.jpg, id=78, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
-Package pdftex.def Info: banting_fat.jpg used on input line 218.
+Package pdftex.def Info: banting_fat.jpg used on input line 224.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
-[21] [22 <./banting_fat.jpg>]
-<mental_man.jpg, id=82, 1003.75pt x 1293.83376pt>
+[22] [23 <./banting_fat.jpg>]
+<mental_man.jpg, id=85, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
-Package pdftex.def Info: mental_man.jpg used on input line 231.
+Package pdftex.def Info: mental_man.jpg used on input line 237.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
- [23]
-<mental_manp2.jpg, id=86, 1003.75pt x 1293.83376pt>
+ [24]
+<mental_manp2.jpg, id=89, 1003.75pt x 1293.83376pt>
 File: mental_manp2.jpg Graphic file (type jpg)
  <use mental_manp2.jpg>
-Package pdftex.def Info: mental_manp2.jpg used on input line 238.
+Package pdftex.def Info: mental_manp2.jpg used on input line 244.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
-[24 <./mental_man.jpg>] [25 <./mental_manp2.jpg>] (./main.bbl [26]
+[25 <./mental_man.jpg>] [26 <./mental_manp2.jpg>] (./main.bbl [27]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [27])
+) [28])
 
 Package natbib Warning: There were undefined citations.
 
-[28] (./main.aux) ) 
+[29] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  4545 strings out of 493117
  62625 string characters out of 6135433
@@ -376,10 +376,10 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (28 pages, 932937 bytes).
+Output written on main.pdf (29 pages, 934157 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 130 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
