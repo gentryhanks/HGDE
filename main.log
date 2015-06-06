@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 JUN 2015 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 JUN 2015 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -312,8 +312,12 @@ Package natbib Warning: Citation `sanders_2001_diabetes' on page 7 undefined on
 [7] [8] [9] [10] [11] [12] [13] [14]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [15]
-[16] [17]
+)
+
+Package natbib Warning: Citation `daniels_1949_role' on page 15 undefined on in
+put line 130.
+
+[15] [16] [17]
 Overfull \hbox (6.67192pt too wide) in paragraph at lines 167--170
 []\OT1/cmr/m/n/12 (Fishbein, 1959) In med-i-cal re-sources and lit-er-a-ture ge
 ared to-wards women
@@ -361,10 +365,10 @@ Package natbib Warning: There were undefined citations.
 
 [30] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4545 strings out of 493117
- 62625 string characters out of 6135433
+ 4546 strings out of 493117
+ 62644 string characters out of 6135433
  147558 words of memory out of 5000000
- 7934 multiletter control sequences out of 15000+600000
+ 7935 multiletter control sequences out of 15000+600000
  10507 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,23p,1888b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -376,7 +380,7 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (30 pages, 936568 bytes).
+Output written on main.pdf (30 pages, 936785 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
