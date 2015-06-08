@@ -111,6 +111,11 @@ Major, R.~H. (1933).
 \newblock Classic descriptions of disease.
 \newblock {\em The American Journal of the Medical Sciences}, 185(6):864.
 
+\bibitem[\protect\astroncite{Masson}{1923}]{masson_1923_mental}
+Masson, C.~B. (1923).
+\newblock Mental concomitants of diabetes mellitus.
+\newblock {\em New York Med J Med Rec}, 117:598.
+
 \bibitem[\protect\astroncite{McKusick}{1959}]{McKusick_1959_Health}
 McKusick, M.~J. (1959).
 \newblock Health during childhood and adolescence.
@@ -122,10 +127,21 @@ Menninger, W.~C. (1935).
 \newblock Psychological factors in the etiology of diabetes.
 \newblock {\em The Journal of Nervous and Mental Disease}, 81(1):1--13.
 
+\bibitem[\protect\astroncite{Miles and Root}{1922}]{miles_1922_psychologic}
+Miles, W. and Root, H. (1922).
+\newblock Psychologic tests applied to diabetic patients.
+\newblock {\em Archives of Internal Medicine}, 30(6):767--777.
+
 \bibitem[\protect\astroncite{Naunyn}{}]{naunyn_diabetes_1898}
 Naunyn, B.
 \newblock {\em Der "Diabetes melitus", von Dr. B. Naunyn,...}
 \newblock A. Hölder.
+
+\bibitem[\protect\astroncite{NEILSON}{1927}]{neilson_1927_emotional}
+NEILSON, C.~H. (1927).
+\newblock Emotional and psychic factors in disease: Influence on exophthalmic
+  goiter, diabetes mellitus, and diseases of the nose and throat.
+\newblock {\em Journal of the American Medical Association}, 89(13):1020--1025.
 
 \bibitem[\protect\astroncite{Osler}{1921}]{osler_1921_evolution}
 Osler, W. (1921).
@@ -152,6 +168,11 @@ Sanders, L.~J. (2001).
 Sattley, M. (1996).
 \newblock The history of diabetes.
 \newblock {\em Diabetes Health}.
+
+\bibitem[\protect\astroncite{Stragnell}{1921}]{stragnell_1921_relationship}
+Stragnell, G. (1921).
+\newblock The relationship of psychopathology to the endocrines.
+\newblock {\em NY Med. J.(incl. Phil. Med. J.)}, 113:386--389.
 
 \bibitem[\protect\astroncite{Tattersall}{2009}]{tattersall_diabetes_2009}
 Tattersall, R. (2009).
