@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 JUN 2015 14:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 JUN 2015 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -165,6 +165,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks26
 \@floatcapt=\box29
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks27
+\SOUL@lasttoken=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
+\SOUL@spaceskip=\skip48
+\SOUL@ttwidth=\dimen115
+\SOUL@uldp=\dimen116
+\SOUL@ulht=\dimen117
+)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -182,15 +194,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count104
 \Gm@cntv=\count105
 \c@Gm@tempcnt=\count106
-\Gm@bindingoffset=\dimen115
-\Gm@wd@mp=\dimen116
-\Gm@odd@mp=\dimen117
-\Gm@even@mp=\dimen118
-\Gm@layoutwidth=\dimen119
-\Gm@layoutheight=\dimen120
-\Gm@layouthoffset=\dimen121
-\Gm@layoutvoffset=\dimen122
-\Gm@dimlist=\toks27
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks32
 )
 (./main.aux)
 \openout1 = `main.aux'.
@@ -213,16 +225,16 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
-\scratchdimen=\dimen123
+\scratchdimen=\dimen126
 \scratchbox=\box30
 \nofMPsegments=\count108
 \nofMParguments=\count109
-\everyMPshowfont=\toks28
+\everyMPshowfont=\toks33
 \MPscratchCnt=\count110
-\MPscratchDim=\dimen124
+\MPscratchDim=\dimen127
 \MPnumerator=\count111
 \makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks29
+\everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -365,11 +377,11 @@ Package natbib Warning: There were undefined citations.
 
 [31] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4558 strings out of 493117
- 63007 string characters out of 6135433
- 147674 words of memory out of 5000000
- 7947 multiletter control sequences out of 15000+600000
- 10507 words of font info for 38 fonts, out of 8000000 for 9000
+ 4729 strings out of 493117
+ 65127 string characters out of 6135433
+ 151098 words of memory out of 5000000
+ 8113 multiletter control sequences out of 15000+600000
+ 10820 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,24p,1888b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
@@ -380,7 +392,7 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (31 pages, 940101 bytes).
+Output written on main.pdf (31 pages, 940102 bytes).
 PDF statistics:
  137 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream
