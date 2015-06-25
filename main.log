@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  8 JUN 2015 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  22 JUN 2015 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,43 +317,43 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 Package natbib Warning: Citation `daniels_1949_role' on page 15 undefined on in
 put line 130.
 
-[15] [16] [17]
+[15] [16] [17] [18]
 Overfull \hbox (6.67192pt too wide) in paragraph at lines 167--170
 []\OT1/cmr/m/n/12 (Fishbein, 1959) In med-i-cal re-sources and lit-er-a-ture ge
 ared to-wards women
  []
 
-[18] <thanksgivinghavens.jpg, id=66, 1003.75pt x 1505.625pt>
+<thanksgivinghavens.jpg, id=66, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
-Package pdftex.def Info: thanksgivinghavens.jpg used on input line 190.
+Package pdftex.def Info: thanksgivinghavens.jpg used on input line 191.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
  [19]
 <thankshavep2.jpg, id=71, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
  <use thankshavep2.jpg>
-Package pdftex.def Info: thankshavep2.jpg used on input line 197.
+Package pdftex.def Info: thankshavep2.jpg used on input line 198.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
 
 [20 <./thanksgivinghavens.jpg>] [21 <./thankshavep2.jpg>] [22]
 <banting_fat.jpg, id=81, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
-Package pdftex.def Info: banting_fat.jpg used on input line 231.
+Package pdftex.def Info: banting_fat.jpg used on input line 232.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
 [23] [24 <./banting_fat.jpg>]
 <mental_man.jpg, id=88, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
-Package pdftex.def Info: mental_man.jpg used on input line 244.
+Package pdftex.def Info: mental_man.jpg used on input line 245.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
  [25]
 <mental_manp2.jpg, id=93, 1003.75pt x 1293.83376pt>
 File: mental_manp2.jpg Graphic file (type jpg)
  <use mental_manp2.jpg>
-Package pdftex.def Info: mental_manp2.jpg used on input line 251.
+Package pdftex.def Info: mental_manp2.jpg used on input line 252.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
 [26 <./mental_man.jpg>] [27 <./mental_manp2.jpg>] (./main.bbl [28]
@@ -380,7 +380,7 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (30 pages, 937970 bytes).
+Output written on main.pdf (30 pages, 938527 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
