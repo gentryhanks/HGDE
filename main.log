@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUL 2015 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUL 2015 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,36 +368,36 @@ File: banting_fat.jpg Graphic file (type jpg)
 Package pdftex.def Info: banting_fat.jpg used on input line 365.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
-[29] [30 <./banting_fat.jpg>]
-<mental_man.jpg, id=107, 1003.75pt x 1293.83376pt>
+[29] [30] [31 <./banting_fat.jpg>]
+<mental_man.jpg, id=111, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
 Package pdftex.def Info: mental_man.jpg used on input line 378.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
-[31] <mental_manp2.jpg, id=112, 1003.75pt x 1293.83376pt>
+[32] <mental_manp2.jpg, id=115, 1003.75pt x 1293.83376pt>
 File: mental_manp2.jpg Graphic file (type jpg)
 
 <use mental_manp2.jpg>
 Package pdftex.def Info: mental_manp2.jpg used on input line 385.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
- [32 <./mental_man.jpg>] [33 <./mental_manp2.jpg>]
-(./main.bbl [34]
+ [33 <./mental_man.jpg>] [34 <./mental_manp2.jpg>]
+(./main.bbl [35]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [35])
+) [36])
 
 Package natbib Warning: There were undefined citations.
 
-[36] (./main.aux) ) 
+[37] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4810 strings out of 493117
- 65927 string characters out of 6135433
- 154185 words of memory out of 5000000
- 8189 multiletter control sequences out of 15000+600000
+ 4816 strings out of 493117
+ 66101 string characters out of 6135433
+ 154237 words of memory out of 5000000
+ 8195 multiletter control sequences out of 15000+600000
  10926 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,24p,2165b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,24p,2165b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
@@ -406,10 +406,10 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (36 pages, 951250 bytes).
+Output written on main.pdf (37 pages, 951860 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 159 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
