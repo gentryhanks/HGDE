@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 JUL 2015 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 JUL 2015 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -216,24 +216,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen128
 \Gm@dimlist=\toks33
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count108
-\output=\toks34
-\linenoprevgraf=\count109
-\linenumbersep=\dimen129
-\linenumberwidth=\dimen130
-\c@linenumber=\count110
-\c@pagewiselinenumber=\count111
-\c@LN@truepage=\count112
-\c@internallinenumber=\count113
-\c@internallinenumbers=\count114
-\quotelinenumbersep=\dimen131
-\bframerule=\dimen132
-\bframesep=\dimen133
-\bframebox=\box33
-LaTeX Info: Redefining \\ on input line 3056.
-) (./main.aux)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -248,23 +231,22 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/ucsencs.def
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
-\scratchdimen=\dimen134
-\scratchbox=\box34
-\nofMPsegments=\count116
-\nofMParguments=\count117
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count118
-\MPscratchDim=\dimen135
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count108
+\scratchdimen=\dimen129
+\scratchbox=\box33
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen130
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks35
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -365,40 +347,40 @@ Overfull \hbox (6.67192pt too wide) in paragraph at lines 167--170
 ared to-wards women
  []
 
-<Dog_lab.png, id=71, 390.45876pt x 573.14125pt>
+<Dog_lab.png, id=70, 390.45876pt x 573.14125pt>
 File: Dog_lab.png Graphic file (type png)
  <use Dog_lab.png>
 Package pdftex.def Info: Dog_lab.png used on input line 189.
 (pdftex.def)             Requested size: 397.48499pt x 583.47693pt.
  [20] [21 <./Dog_lab.png>] [22] [23] [24] [25] [26]
-<thanksgivinghavens.jpg, id=96, 1003.75pt x 1505.625pt>
+<thanksgivinghavens.jpg, id=95, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
 Package pdftex.def Info: thanksgivinghavens.jpg used on input line 337.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [27]
-<thankshavep2.jpg, id=100, 1003.75pt x 1505.625pt>
+ [27] [28]
+<thankshavep2.jpg, id=102, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
  <use thankshavep2.jpg>
 Package pdftex.def Info: thankshavep2.jpg used on input line 344.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
 
-[28 <./thanksgivinghavens.jpg>] [29 <./thankshavep2.jpg>] [30] [31]
-<banting_fat.jpg, id=114, 1003.75pt x 1498.59875pt>
+[29 <./thanksgivinghavens.jpg>] [30 <./thankshavep2.jpg>] [31]
+<banting_fat.jpg, id=113, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
 Package pdftex.def Info: banting_fat.jpg used on input line 378.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
 [32] [33 <./banting_fat.jpg>]
-<mental_man.jpg, id=121, 1003.75pt x 1293.83376pt>
+<mental_man.jpg, id=120, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
 Package pdftex.def Info: mental_man.jpg used on input line 391.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
-[34] <mental_manp2.jpg, id=125, 1003.75pt x 1293.83376pt>
+[34] <mental_manp2.jpg, id=124, 1003.75pt x 1293.83376pt>
 File: mental_manp2.jpg Graphic file (type jpg)
 
 <use mental_manp2.jpg>
@@ -414,11 +396,11 @@ Package natbib Warning: There were undefined citations.
 
 [39] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5028 strings out of 493117
- 69352 string characters out of 6135433
- 158536 words of memory out of 5000000
- 8401 multiletter control sequences out of 15000+600000
- 11226 words of font info for 41 fonts, out of 8000000 for 9000
+ 4825 strings out of 493117
+ 66284 string characters out of 6135433
+ 154271 words of memory out of 5000000
+ 8203 multiletter control sequences out of 15000+600000
+ 10926 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,24p,2165b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
@@ -427,13 +409,12 @@ ts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.
-pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
-fb>
-Output written on main.pdf (39 pages, 1350916 bytes).
+8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on main.pdf (39 pages, 1340177 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 168 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
