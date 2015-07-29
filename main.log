@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUL 2015 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUL 2015 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,65 +333,64 @@ e
 Package natbib Warning: Citation `sanders_2001_diabetes' on page 7 undefined on
  input line 59.
 
-[7] [8] [9] [10] [11] [12] [13] [14] [15]
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 
-Package natbib Warning: Citation `daniels_1949_role' on page 16 undefined on in
-put line 130.
+Package natbib Warning: Citation `daniels_1949_role' on page 22 undefined on in
+put line 231.
 
-[16] [17] [18] [19]
-Overfull \hbox (6.67192pt too wide) in paragraph at lines 169--172
+[22] [23] [24] [25]
+Overfull \hbox (6.67192pt too wide) in paragraph at lines 270--273
 []\OT1/cmr/m/n/12 (Fishbein, 1959) In med-i-cal re-sources and lit-er-a-ture ge
 ared to-wards women
  []
 
-<Dog_lab.png, id=70, 390.45876pt x 573.14125pt>
+<Dog_lab.png, id=89, 390.45876pt x 573.14125pt>
 File: Dog_lab.png Graphic file (type png)
  <use Dog_lab.png>
-Package pdftex.def Info: Dog_lab.png used on input line 200.
+Package pdftex.def Info: Dog_lab.png used on input line 301.
 (pdftex.def)             Requested size: 397.48499pt x 583.47693pt.
- [20] [21]
-[22 <./Dog_lab.png>] <Hughes_Chart.png, id=82, 748.7975pt x 571.13374pt>
+ [26] [27 <./Dog_lab.png>] <Hughes_Chart.png, id=98, 748.7975pt x 571.13374pt>
 File: Hughes_Chart.png Graphic file (type png)
 
 <use Hughes_Chart.png>
-Package pdftex.def Info: Hughes_Chart.png used on input line 250.
+Package pdftex.def Info: Hughes_Chart.png used on input line 350.
 (pdftex.def)             Requested size: 397.48499pt x 303.17876pt.
- [23] [24 <./Hughes_Chart.png>] [25] [26] [27] [28]
-<thanksgivinghavens.jpg, id=103, 1003.75pt x 1505.625pt>
+ [28]
+<thanksgivinghavens.jpg, id=102, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
-Package pdftex.def Info: thanksgivinghavens.jpg used on input line 362.
+Package pdftex.def Info: thanksgivinghavens.jpg used on input line 370.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [29]
+ [29 <./Hughes_Chart.png>]
 <thankshavep2.jpg, id=107, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
  <use thankshavep2.jpg>
-Package pdftex.def Info: thankshavep2.jpg used on input line 369.
+Package pdftex.def Info: thankshavep2.jpg used on input line 377.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
 
 [30 <./thanksgivinghavens.jpg>] [31 <./thankshavep2.jpg>] [32]
 <banting_fat.jpg, id=118, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
-Package pdftex.def Info: banting_fat.jpg used on input line 403.
+Package pdftex.def Info: banting_fat.jpg used on input line 411.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
 [33] [34 <./banting_fat.jpg>]
 <mental_man.jpg, id=125, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
-Package pdftex.def Info: mental_man.jpg used on input line 416.
+Package pdftex.def Info: mental_man.jpg used on input line 424.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
 [35] <mental_manp2.jpg, id=129, 1003.75pt x 1293.83376pt>
 File: mental_manp2.jpg Graphic file (type jpg)
 
 <use mental_manp2.jpg>
-Package pdftex.def Info: mental_manp2.jpg used on input line 423.
+Package pdftex.def Info: mental_manp2.jpg used on input line 431.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
  [36 <./mental_man.jpg>] [37 <./mental_manp2.jpg>]
 (./main.bbl [38]
@@ -418,7 +417,7 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (40 pages, 2134715 bytes).
+Output written on main.pdf (40 pages, 2135278 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
