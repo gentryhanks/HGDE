@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUL 2015 20:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUL 2015 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,19 +328,25 @@ e
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6]
+[2] [3]
+Overfull \hbox (0.6706pt too wide) in paragraph at lines 40--41
+[]\OT1/cmr/m/n/12 Divisions from med-i-cal his-to-ri-ans re-gard-ing di-a-betes
+ as pro-vided by Sanders
+ []
+
+[4] [5] [6]
 
 Package natbib Warning: Citation `sanders_2001_diabetes' on page 7 undefined on
  input line 59.
 
-[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-<thanksgivinghavens.jpg, id=63, 1003.75pt x 1505.625pt>
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+<thanksgivinghavens.jpg, id=60, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
 Package pdftex.def Info: thanksgivinghavens.jpg used on input line 157.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [18]
+ [17] [18]
 <thankshavep2.jpg, id=67, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
  <use thankshavep2.jpg>
@@ -367,33 +373,23 @@ File: mental_manp2.jpg Graphic file (type jpg)
 Package pdftex.def Info: mental_manp2.jpg used on input line 217.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
-[25 <./mental_man.jpg>] [26 <./mental_manp2.jpg>] [27] [28] [29] [30] [31]
-(/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-
-Package natbib Warning: Citation `daniels_1949_role' on page 32 undefined on in
-put line 274.
-
-[32] [33] [34]
-Overfull \hbox (6.67192pt too wide) in paragraph at lines 313--316
-[]\OT1/cmr/m/n/12 (Fishbein, 1959) In med-i-cal re-sources and lit-er-a-ture ge
-ared to-wards women
- []
-
-[35] <Dog_lab.png, id=125, 390.45876pt x 573.14125pt>
+[25 <./mental_man.jpg>] [26 <./mental_manp2.jpg>]
+<Dog_lab.png, id=97, 390.45876pt x 573.14125pt>
 File: Dog_lab.png Graphic file (type png)
  <use Dog_lab.png>
-Package pdftex.def Info: Dog_lab.png used on input line 344.
+Package pdftex.def Info: Dog_lab.png used on input line 228.
 (pdftex.def)             Requested size: 397.48499pt x 583.47693pt.
-
-[36] [37 <./Dog_lab.png>] <Hughes_Chart.png, id=135, 748.7975pt x 571.13374pt>
+ [27] [28 <./Dog_lab.png>] <Hughes_Chart.png, id=106, 748.7975pt x 571.13374pt>
 File: Hughes_Chart.png Graphic file (type png)
 
 <use Hughes_Chart.png>
-Package pdftex.def Info: Hughes_Chart.png used on input line 393.
+Package pdftex.def Info: Hughes_Chart.png used on input line 277.
 (pdftex.def)             Requested size: 397.48499pt x 303.17876pt.
- [38] [39 <./Hughes_Chart.png>] (./main.bbl [40]
+ [29] [30 <./Hughes_Chart.png>] [31] [32] [33] [34]
+[35] (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+[36] [37] [38] [39] (./main.bbl [40]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 ) [41])
@@ -402,13 +398,13 @@ Package natbib Warning: There were undefined citations.
 
 [42] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4840 strings out of 493117
- 66661 string characters out of 6135433
- 154359 words of memory out of 5000000
- 8217 multiletter control sequences out of 15000+600000
+ 4830 strings out of 493117
+ 66396 string characters out of 6135433
+ 154282 words of memory out of 5000000
+ 8207 multiletter control sequences out of 15000+600000
  10926 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,24p,2352b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,24p,2352b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
@@ -417,7 +413,7 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (42 pages, 2140727 bytes).
+Output written on main.pdf (42 pages, 2137725 bytes).
 PDF statistics:
  179 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams

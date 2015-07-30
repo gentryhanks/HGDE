@@ -74,11 +74,6 @@ Engelhardt, D. (1989).
 \newblock {\em Diabetes: Its Medical and Cultural History Outlines}.
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
 
-\bibitem[\protect\astroncite{Fishbein}{1959}]{fishbein_1959_modern}
-Fishbein, A.~M. (1959).
-\newblock {\em Modern Woman's Medical Encyclopedia}.
-\newblock Doubleday.
-
 \bibitem[\protect\astroncite{Frank}{1957}]{frank_1957_diabetes}
 Frank, L.~L. (1957).
 \newblock Diabetes mellitus in the texts of old hindu medicine (charaka,
@@ -133,21 +128,10 @@ Maimonides, Rosner, F., and Dienstag, J.~I. (1989).
 \newblock {\em The medical aphorisms of Moses Maimonides}.
 \newblock Maimonides Research Institute.
 
-\bibitem[\protect\astroncite{Major}{1933}]{major_1933_classic}
-Major, R.~H. (1933).
-\newblock Classic descriptions of disease.
-\newblock {\em The American Journal of the Medical Sciences}, 185(6):864.
-
 \bibitem[\protect\astroncite{Masson}{1923}]{masson_1923_mental}
 Masson, C.~B. (1923).
 \newblock Mental concomitants of diabetes mellitus.
 \newblock {\em New York Med J Med Rec}, 117:598.
-
-\bibitem[\protect\astroncite{McKusick}{1959}]{McKusick_1959_Health}
-McKusick, M.~J. (1959).
-\newblock Health during childhood and adolescence.
-\newblock In Fishbein, A.~M., editor, {\em Modern Woman's Medical
-  Encyclopedia}, pages 3--22. Doubleday.
 
 \bibitem[\protect\astroncite{Menninger}{1935}]{menninger_1935_psychological}
 Menninger, W.~C. (1935).
@@ -159,13 +143,13 @@ Miles, W. and Root, H. (1922).
 \newblock Psychologic tests applied to diabetic patients.
 \newblock {\em Archives of Internal Medicine}, 30(6):767--777.
 
-\bibitem[\protect\astroncite{Naunyn}{}]{naunyn_diabetes_1898}
-Naunyn, B.
-\newblock {\em Der "Diabetes melitus", von Dr. B. Naunyn,...}
+\bibitem[\protect\astroncite{Naunyn}{1898}]{naunyn_diabetes_1898}
+Naunyn, B. (1898).
+\newblock {\em Der "Diabetes melitus"}.
 \newblock A. Hölder.
 
-\bibitem[\protect\astroncite{NEILSON}{1927}]{neilson_1927_emotional}
-NEILSON, C.~H. (1927).
+\bibitem[\protect\astroncite{Neilson}{1927}]{neilson_1927_emotional}
+Neilson, C.~H. (1927).
 \newblock Emotional and psychic factors in disease: Influence on exophthalmic
   goiter, diabetes mellitus, and diseases of the nose and throat.
 \newblock {\em Journal of the American Medical Association}, 89(13):1020--1025.
