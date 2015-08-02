@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 AUG 2015 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 AUG 2015 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,19 +6,20 @@ entering extended mode
 (./main.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -31,7 +32,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/03/24 3.9k Babel common definitions
-\babel@savecnt=\count87
+\babel@savecnt=\count88
 \U@D=\dimen103
 )
 \l@canadian = a dialect from \language\l@american 
@@ -52,7 +53,7 @@ Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
-\uc@secondtry=\count88
+\uc@secondtry=\count89
 \uc@combtoks=\toks16
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
@@ -77,13 +78,13 @@ Package: amsbsy 1999/11/29 v1.2d
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count89
+\inf@bad=\count90
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count90
-\leftroot@=\count91
+\uproot@=\count91
+\leftroot@=\count92
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count92
-\DOTSCASE@=\count93
+\classnum@=\count93
+\DOTSCASE@=\count94
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -92,15 +93,15 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen106
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count94
-\c@MaxMatrixCols=\count95
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
 \dotsspace@=\muskip10
-\c@parentequation=\count96
-\dspbrk@lvl=\count97
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
 \tag@help=\toks20
-\row@=\count98
-\column@=\count99
-\maxfields@=\count100
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
 \andhelp@=\toks21
 \eqnshift@=\dimen107
 \alignsep@=\dimen108
@@ -142,7 +143,7 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count101
+\Gread@gobject=\count102
 ))
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
@@ -155,11 +156,11 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip46
 \bibsep=\skip47
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count102
+\c@NAT@ctr=\count103
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count103
+\c@float@type=\count104
 \float@exts=\toks25
 \float@box=\box28
 \@float@everytoks=\toks26
@@ -183,7 +184,7 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \UL@skip=\skip49
 \UL@hook=\toks32
 \UL@height=\dimen118
-\UL@pe=\count104
+\UL@pe=\count105
 \UL@pixel=\dimen119
 \ULC@box=\box32
 Package: ulem 2012/05/18
@@ -203,9 +204,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count105
-\Gm@cntv=\count106
-\c@Gm@tempcnt=\count107
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
 \Gm@bindingoffset=\dimen121
 \Gm@wd@mp=\dimen122
 \Gm@odd@mp=\dimen123
@@ -216,36 +217,79 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen128
 \Gm@dimlist=\toks33
 )
-(./main.aux)
+(./styles/quthesis.sty
+Document Style Option `quthesisDJ' <24-Aug-2003>.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip50
+\cftbeforetoctitleskip=\skip51
+\cftaftertoctitleskip=\skip52
+\cftbeforepartskip=\skip53
+\cftpartnumwidth=\skip54
+\cftpartindent=\skip55
+\cftbeforechapskip=\skip56
+\cftchapindent=\skip57
+\cftchapnumwidth=\skip58
+\cftbeforesecskip=\skip59
+\cftsecindent=\skip60
+\cftsecnumwidth=\skip61
+\cftbeforesubsecskip=\skip62
+\cftsubsecindent=\skip63
+\cftsubsecnumwidth=\skip64
+\cftbeforesubsubsecskip=\skip65
+\cftsubsubsecindent=\skip66
+\cftsubsubsecnumwidth=\skip67
+\cftbeforeparaskip=\skip68
+\cftparaindent=\skip69
+\cftparanumwidth=\skip70
+\cftbeforesubparaskip=\skip71
+\cftsubparaindent=\skip72
+\cftsubparanumwidth=\skip73
+\cftbeforeloftitleskip=\skip74
+\cftafterloftitleskip=\skip75
+\cftbeforefigskip=\skip76
+\cftfigindent=\skip77
+\cftfignumwidth=\skip78
+\c@lofdepth=\count109
+\c@lotdepth=\count110
+\cftbeforelottitleskip=\skip79
+\cftafterlottitleskip=\skip80
+\cftbeforetabskip=\skip81
+\cfttabindent=\skip82
+\cfttabnumwidth=\skip83
+)
+\quthesisbackupwidth=\skip84
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
+\scratchcounter=\count111
 \scratchdimen=\dimen129
 \scratchbox=\box33
-\nofMPsegments=\count109
-\nofMParguments=\count110
+\nofMPsegments=\count112
+\nofMParguments=\count113
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count111
+\MPscratchCnt=\count114
 \MPscratchDim=\dimen130
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks35
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -298,21 +342,21 @@ e
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes: twoside 
 * h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
 * v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=397.485pt
-* \textheight=650.43001pt
-* \oddsidemargin=36.13501pt
-* \evensidemargin=36.13501pt
-* \topmargin=-37.0pt
+* \textwidth=433.62pt
+* \textheight=585.38744pt
+* \oddsidemargin=36.135pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=36.135pt
 * \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \footskip=20.0pt
+* \marginparwidth=40.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -320,89 +364,138 @@ e
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 [1
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3]
-Overfull \hbox (0.6706pt too wide) in paragraph at lines 40--41
-[]\OT1/cmr/m/n/12 Divisions from med-i-cal his-to-ri-ans re-gard-ing di-a-betes
- as pro-vided by Sanders
- []
 
-[4] [5] [6]
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3] [4] [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
 
 Package natbib Warning: Citation `sanders_2001_diabetes' on page 7 undefined on
- input line 59.
+ input line 61.
 
-[7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-<thanksgivinghavens.jpg, id=60, 1003.75pt x 1505.625pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8] [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 6316) has occurred while \output is active []
+
+ [11]
+[12] [13] [14] [15] [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+<thanksgivinghavens.jpg, id=63, 1003.75pt x 1505.625pt>
 File: thanksgivinghavens.jpg Graphic file (type jpg)
 
 <use thanksgivinghavens.jpg>
-Package pdftex.def Info: thanksgivinghavens.jpg used on input line 157.
+Package pdftex.def Info: thanksgivinghavens.jpg used on input line 159.
 (pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
- [17] [18]
-<thankshavep2.jpg, id=67, 1003.75pt x 1505.625pt>
+ <thankshavep2.jpg, id=64, 1003.75pt x 1505.625pt>
 File: thankshavep2.jpg Graphic file (type jpg)
- <use thankshavep2.jpg>
-Package pdftex.def Info: thankshavep2.jpg used on input line 164.
-(pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
 
-[19 <./thanksgivinghavens.jpg>] [20 <./thankshavep2.jpg>] [21]
-<banting_fat.jpg, id=78, 1003.75pt x 1498.59875pt>
+<use thankshavep2.jpg>
+Package pdftex.def Info: thankshavep2.jpg used on input line 166.
+(pdftex.def)             Requested size: 361.34999pt x 542.0246pt.
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+<banting_fat.jpg, id=72, 1003.75pt x 1498.59875pt>
 File: banting_fat.jpg Graphic file (type jpg)
  <use banting_fat.jpg>
-Package pdftex.def Info: banting_fat.jpg used on input line 197.
+Package pdftex.def Info: banting_fat.jpg used on input line 199.
 (pdftex.def)             Requested size: 397.48499pt x 593.46066pt.
 
-[22] [23 <./banting_fat.jpg>]
-<mental_man.jpg, id=85, 1003.75pt x 1293.83376pt>
+
+LaTeX Warning: Float too large for page by 34.90654pt on input line 202.
+
+<mental_man.jpg, id=73, 1003.75pt x 1293.83376pt>
 File: mental_man.jpg Graphic file (type jpg)
  <use mental_man.jpg>
-Package pdftex.def Info: mental_man.jpg used on input line 210.
+Package pdftex.def Info: mental_man.jpg used on input line 212.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
- [24]
-<mental_manp2.jpg, id=89, 1003.75pt x 1293.83376pt>
+
+<mental_manp2.jpg, id=74, 1003.75pt x 1293.83376pt>
 File: mental_manp2.jpg Graphic file (type jpg)
  <use mental_manp2.jpg>
-Package pdftex.def Info: mental_manp2.jpg used on input line 217.
+Package pdftex.def Info: mental_manp2.jpg used on input line 219.
 (pdftex.def)             Requested size: 361.34999pt x 465.7798pt.
 
-[25 <./mental_man.jpg>] [26 <./mental_manp2.jpg>]
-<Dog_lab.png, id=97, 390.45876pt x 573.14125pt>
+[20] <Dog_lab.png, id=78, 390.45876pt x 573.14125pt>
 File: Dog_lab.png Graphic file (type png)
  <use Dog_lab.png>
-Package pdftex.def Info: Dog_lab.png used on input line 228.
+Package pdftex.def Info: Dog_lab.png used on input line 230.
 (pdftex.def)             Requested size: 397.48499pt x 583.47693pt.
- [27] [28 <./Dog_lab.png>] <Hughes_Chart.png, id=106, 748.7975pt x 571.13374pt>
-File: Hughes_Chart.png Graphic file (type png)
 
-<use Hughes_Chart.png>
-Package pdftex.def Info: Hughes_Chart.png used on input line 277.
+
+LaTeX Warning: Float too large for page by 39.4228pt on input line 233.
+
+<Hughes_Chart.png, id=80, 748.7975pt x 571.13374pt>
+File: Hughes_Chart.png Graphic file (type png)
+ <use Hughes_Chart.png>
+Package pdftex.def Info: Hughes_Chart.png used on input line 279.
 (pdftex.def)             Requested size: 397.48499pt x 303.17876pt.
- [29] [30 <./Hughes_Chart.png>] [31] [32] [33] [34]
-[35] (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+[24]
+Overfull \hbox (10.40457pt too wide) in paragraph at lines 310--311
+[]\OT1/cmr/m/n/12 Whitehorn (1934) con-ducted re-search at McLean Hos-pi-tal in
+ Wa-verly, Mas-sachusetts
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+[26] [27] (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-[36] [37] [38] [39] (./main.bbl [40]
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+[30] (./main.bbl [31 <./thanksgivinghavens.jpg>] [32 <./thankshavep2.jpg>]
+[33 <./banting_fat.jpg>] [34 <./mental_man.jpg>] [35 <./mental_manp2.jpg>]
+[36 <./Dog_lab.png>] [37 <./Hughes_Chart.png>] [38
+
+
+] [39]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [41])
+) [40])
 
 Package natbib Warning: There were undefined citations.
 
-[42] (./main.aux) ) 
+[41] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4830 strings out of 493117
- 66396 string characters out of 6135433
- 154282 words of memory out of 5000000
- 8207 multiletter control sequences out of 15000+600000
- 10926 words of font info for 40 fonts, out of 8000000 for 9000
+ 5149 strings out of 493117
+ 71035 string characters out of 6135433
+ 158534 words of memory out of 5000000
+ 8518 multiletter control sequences out of 15000+600000
+ 11532 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,24p,2352b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
@@ -413,10 +506,10 @@ m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on main.pdf (42 pages, 2137725 bytes).
+Output written on main.pdf (41 pages, 2136449 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+ 176 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
